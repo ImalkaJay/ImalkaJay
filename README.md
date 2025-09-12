@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Imalka Jay! 🚀</h1>
-<h3 align="center">Aspiring Software Engineer | Code Crafter | Gym Enthusiast | Turning Ideas into Reality from Monaragala, Sri Lanka 🇱🇰</h3>
+<h3 align="center">Software Engineering Student | Code Crafter</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imalkajay&style=flat-square&color=blue" alt="Profile Views"/>
