@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Coding GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZvdW1oaWZ3c2V1dGRxM3huejRiYTlpcmdrZXR6emcwdTlmZnFuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"/>
 </div>
 
 <h1 align="center">👋 Hi, I'm Imalka Jay! 🚀</h1>
