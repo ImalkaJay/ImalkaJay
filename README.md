@@ -59,7 +59,7 @@
 
 ### 🤝 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/imalkajay" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imalkajay" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/imalkajay" target="blank"><img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="imalkajay" height="30" width="40" /></a>
   <a href="https://fb.com/imalka.jayantha.9" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imalka.jayantha.9" height="30" width="40" /></a>
   <a href="https://instagram.com/imalka_jayyy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imalka_jayyy" height="30" width="40" /></a>
   <a href="https://discord.gg/000000" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="000000" height="30" width="40" /></a>
