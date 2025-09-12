@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTYwYjQ3bXBhNjUzZncybGFnNXN4c3l6c284am02NWg5a2czdG8ydyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno3MGVmcHJvdTlkMTdsa2E1Y293ODVmdzlzazdwaHFqbDBhOGthOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif"/>
 </div>
 
 <h1 align="center">👋 Hi, I'm Imalka Jay! 🚀</h1>
