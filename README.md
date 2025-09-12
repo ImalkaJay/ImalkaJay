@@ -12,12 +12,14 @@
 ---
 
 ### 🌟 About Me
-- 🔭 **Exploring**: New tech frontiers in Python, SQL, and beyond!
-- 🌱 **Learning**: Advanced Java, database designs, and web dev magic.
-- 💬 **Ask Me About**: Java puzzles, tech troubleshooting, or Sri Lankan adventures.
-- 📫 **Reach Me**: imalkatech@gmail.com
-- ⚡ **Fun Fact**: I'm a GymRat 🏋️‍♂️ who codes with discipline 📊 – fueled by kottu and coffee!
-- 🎮 **Hobbies**: Gaming on Epic/Steam, self-improvement audiobooks, and space exploration dreams.
+- 🌱 I’m currently learning **New Technologies**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **imalkatech@gmail.com**
+
+- ⚡ Fun fact **GymRat🏋️ | Discipline📊**
+
 
 ---
 
