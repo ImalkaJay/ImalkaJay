@@ -1,43 +1,32 @@
-<div align="center">
-  <img src="https://your-image-link-here.png" alt="Profile Banner" width="100%" height="auto">
-</div>
+<h1 align="center">Hi 👋, I'm Imalka Jay</h1>
+<h3 align="center">Software Engineering Student | passionate about building efficient code and solving real-world problems</h3>
 
-# Hi, I'm [Your Name] 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imalkajay" alt="imalkajay" /></a> </p>
 
-I'm a software engineer from Monaragala, Sri Lanka, passionate about building efficient code and solving real-world problems. Currently diving deep into Python, SQL, and database design while exploring tech tools, gaming, and personal growth. When I'm not coding, you'll find me at the gym, gaming on Epic or Steam, or learning about space exploration and Sri Lankan culture.
+- 🌱 I’m currently learning **New Technologies**
 
-- 🌍 Based in Monaragala, Sri Lanka
-- 💻 Software Engineer | Learning Python & SQL
-- 🎮 Gamer (WWE-style fighting games, multiplayer action)
-- 🏋️ Fitness enthusiast | Self-improvement junkie
-- 🔭 Interested in space science and tech innovations
-- 📫 Reach me: [your.email@example.com] or connect on [LinkedIn/Twitter]
+- 💬 Ask me about **Java**
 
-## 🛠️ Skills
-- **Languages**: Python, SQL, C (basics with char arrays/strings)
-- **Databases**: Designing schemas for systems like hospital management
-- **Tools**: Git, VS Code, Network monitoring apps (like NetMod), VPNs
-- **Other**: Hardware setup (dual monitors), Web development (building personal sites), AI image prompts
+- 📫 How to reach me **imalkatech@gmail.com**
 
-## 🚀 Projects
-- [Project 1](link-to-repo): A Python script for [brief description, e.g., data processing].
-- [Project 2](link-to-repo): SQL database for hospital management with INSERT examples.
-- Working on: Personal website and Steam game integrations.
+- ⚡ Fun fact **GymRat🏋️ | Discipline📊**
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/imalkajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imalkajay" height="30" width="40" /></a>
+<a href="https://fb.com/imalka.jayantha.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imalka.jayantha.9" height="30" width="40" /></a>
+<a href="https://instagram.com/imalka_jayyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imalka_jayyy" height="30" width="40" /></a>
+<a href="https://discord.gg/000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="000000" height="30" width="40" /></a>
+</p>
 
-## 🌟 Interests & Fun Facts
-- Exploring Sri Lankan landmarks and traditional foods like kottu and hoppers.
-- Watching post-apocalyptic movies (favorites like Z for Zachariah).
-- Building discipline through audiobooks and self-help books.
-- Recent challenge: Recovering from a Facebook account hack—lessons in digital security!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Let's connect and collaborate! Feel free to fork my repos or drop a message.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/imalkajay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imalkajay" /></a></p><br><br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imalkajay&show_icons=true&locale=en&layout=compact" alt="imalkajay" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imalkajay&show_icons=true&locale=en" alt="imalkajay" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imalkajay&" alt="imalkajay" /></p>
