@@ -1,30 +1,37 @@
-<h1 align="center">Hi 👋, I'm Imalka Jay</h1>
-<h3 align="center">Software Engineering Student | Passionate about building efficient code and solving real-world problems</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Coding GIF"/>
+</div>
 
-<p align="center">
+<h1 align="center">👋 Hi, I'm Imalka Jay! 🚀</h1>
+<h3 align="center">Aspiring Software Engineer | Code Crafter | Gym Enthusiast | Turning Ideas into Reality from Monaragala, Sri Lanka 🇱🇰</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imalkajay&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+---
+
+### 🌟 About Me
+- 🔭 **Exploring**: New tech frontiers in Python, SQL, and beyond!
+- 🌱 **Learning**: Advanced Java, database designs, and web dev magic.
+- 💬 **Ask Me About**: Java puzzles, tech troubleshooting, or Sri Lankan adventures.
+- 📫 **Reach Me**: imalkatech@gmail.com
+- ⚡ **Fun Fact**: I'm a GymRat 🏋️‍♂️ who codes with discipline 📊 – fueled by kottu and coffee!
+- 🎮 **Hobbies**: Gaming on Epic/Steam, self-improvement audiobooks, and space exploration dreams.
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imalkajay&theme=onedark" alt="imalkajay" />
+    <img src="https://github-profile-trophy.vercel.app/?username=imalkajay&theme=dracula&no-frame=false&margin-w=15&column=-1" alt="GitHub Trophies"/>
   </a>
-</p>
+</div>
 
-- 🌱 I’m currently learning **New Technologies**
+---
 
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **imalkatech@gmail.com**
-
-- ⚡ Fun fact **GymRat🏋️ | Discipline📊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/imalkajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imalkajay" height="30" width="40" /></a>
-  <a href="https://fb.com/imalka.jayantha.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imalka.jayantha.9" height="30" width="40" /></a>
-  <a href="https://instagram.com/imalka_jayyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imalka_jayyy" height="30" width="40" /></a>
-  <a href="https://discord.gg/000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="000000" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### 🛠️ Languages & Tools
+<div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -35,23 +42,38 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+</div>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/imalkajay"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imalkajay" />
+---
+
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imalkajay&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imalkajay&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalkajay&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
+---
+
+### 🤝 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/imalkajay" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imalkajay" height="30" width="40" /></a>
+  <a href="https://fb.com/imalka.jayantha.9" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imalka.jayantha.9" height="30" width="40" /></a>
+  <a href="https://instagram.com/imalka_jayyy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imalka_jayyy" height="30" width="40" /></a>
+  <a href="https://discord.gg/000000" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="000000" height="30" width="40" /></a>
+</div>
+
+---
+
+### ☕ Support My Journey
+<div align="center">
+  <a href="https://www.buymeacoffee.com/imalkajay">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
   </a>
-</p><br><br>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imalkajay&show_icons=true&locale=en&layout=compact" alt="imalkajay" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imalkajay&show_icons=true&locale=en" alt="imalkajay" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imalkajay&" alt="imalkajay" />
-</p>
+<div align="center">
+  <i>Let's code, collaborate, and conquer! 🌌</i>
+</div>
