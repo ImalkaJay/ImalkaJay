@@ -1,160 +1,164 @@
 <div align="center">
-  <a href="https://github.com/ImalkaJay">
-    <img src="https://readme-rolling-headers.surge.sh/Imalka%20Jay.gif" width="100%" alt="Header Animation"/>
-  </a>
-  <p><em>Code. Lift. Innovate. 🚀🏋️</em></p>
+  <img src="https://github.com/salmon42/custom-heading/raw/main/heading.svg?text=Imalka+Jay+-+Code+Crafter+%26+Gym+Warrior&color=000000&bg=007ACC" width="100%" alt="Custom Header" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Engineering+Student+%40+ZenIQ;Full-Stack+Developer+%7C+Java+Enthusiast;Building+Scalable+Apps+%26+Lifting+Heavy;Learning+AI+%26+Python+Daily;Let's+Code+Together!+%F0%9F%A4%96" alt="Typing Animation" />
 </div>
 
-<h1 align="center">👋 Hey there, I'm Imalka Jay!</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer at ZenIQ | Code Crafter & Fitness Enthusiast</h3>
+<h1 align="center">🚀 Welcome to My Coding Universe, I'm Imalka Jay! 💻🏋️‍♂️</h1>
+<h3 align="center">From Colombo, Sri Lanka | Crafting Code with Discipline | ZenIQ Developer Extraordinaire</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImalkaJay&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ImalkaJay?logo=github&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ImalkaJay?logo=github&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/badge/Followers-22-blue?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repos-8%2B-green?style=for-the-badge&logo=git" alt="Repos" />
+  <img src="https://img.shields.io/badge/Location-Colombo-orange?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Email-imalkatech%40gmail.com-purple?style=for-the-badge&logo=gmail" alt="Email" />
 </div>
+
+<p align="center">
+  <em>🔥 Passionate about turning complex problems into elegant solutions – one commit and one rep at a time! 💪</em>
+</p>
 
 ---
 
-### 🌟 About Me
-I'm a passionate Software Engineering student from Colombo, Sri Lanka, currently building responsive web applications and backend systems at ZenIQ. With a focus on Java, Spring Boot, and MySQL, I love turning ideas into scalable code while staying disciplined in the gym.
+### 🌟 Who Am I? (Quick Bio)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImalkaJay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=007ACC&text_color=FFFFFF" width="48%" alt="Main Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaJay&theme=radical&hide_border=true&background=0d1117" width="48%" alt="Streak" />
+</div>
 
-- 🔭 **Currently Working On**: Full-stack projects with React, Node.js, and database optimization.
-- 🌱 **Learning**: Advanced Python for AI tools, RESTful APIs, and cloud deployment (AWS/Docker).
-- 💻 **Tech Stack Highlights**: Java (expert), Python, MySQL, HTML/CSS/JS, Git, Figma for UI/UX.
-- 👨‍💼 **Experience**: Frontend/Backend developer role at ZenIQ, specializing in user-centered design and API integration.
-- 💬 **Ask Me About**: Java troubleshooting, fitness routines, or building portfolios from scratch.
-- 📫 **Reach Out**: [imalkatech@gmail.com](mailto:imalkatech@gmail.com) | Let's collaborate!
-- ⚡ **Fun Fact**: GymRat 🏋️ – I track progress like I debug code: one rep (or line) at a time! 📊
-- 🎯 **Goals**: Contribute to open-source, launch personal apps, and balance code with deadlifts.
+- **🎓 Background**: Software Engineering student diving deep into full-stack development at ZenIQ in Colombo.
+- **🔧 Expertise**: Java/Spring Boot wizard, MySQL database guru, React for dynamic UIs, and Python for AI experiments.
+- **🌱 Currently Grinding**: Optimizing REST APIs, home workouts with barbells, and exploring cloud tech like Docker.
+- **💼 Day Job**: Building responsive web apps and backend systems that scale – user-first design is my jam!
+- **🤔 Fun Side**: GymRat life 📊 – Tracking PRs in the gym like I track commits in Git. Ask me for workout tips!
+- **📈 Milestones**: 22 followers strong, 8+ public repos, and counting – join the journey!
+- **🚀 Vision**: Open-source contributor, app launcher, and balanced life hacker. Collaborate? Hit me up!
 
-> "Discipline is choosing between what you want now and what you want most." – My mantra for coding and lifting.
+> 💡 "Code is like muscles – it grows with consistent effort!" – My daily reminder.
 
 ---
 
-### 🚀 Featured Projects
-Here are some of my standout repositories. Check them out for real-world examples of my skills!
+### 🔥 Featured Showcases (My Best Work)
+Dive into my top projects that demonstrate real skills – from Java apps to web prototypes. Each card links directly!
 
 <div align="center">
+  <p>Hover over for magic! ✨</p>
   <table>
     <tr>
-      <td align="center">
-        <a href="https://github.com/ImalkaJay/[project1-repo-name]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[project1-repo-name]&theme=dracula" alt="Project 1"/>
+      <td align="center" width="50%">
+        <a href="https://github.com/ImalkaJay/your-java-student-marks-repo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=your-java-student-marks-repo&theme=radical&bg_color=0d1117" width="100%" alt="Student Marks App" />
         </a>
-        <br><strong>Project 1 Description</strong><br>E.g., Student Marks Management System using Java & MySQL.
+        <br><strong>Student Marks Manager</strong><br>Java + MySQL powerhouse for grade tracking. Efficient, scalable, and bug-free!
       </td>
-      <td align="center">
-        <a href="https://github.com/ImalkaJay/[project2-repo-name]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[project2-repo-name]&theme=dracula" alt="Project 2"/>
+      <td align="center" width="50%">
+        <a href="https://github.com/ImalkaJay/your-react-portfolio-repo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=your-react-portfolio-repo&theme=radical&bg_color=0d1117" width="100%" alt="Portfolio Site" />
         </a>
-        <br><strong>Project 2 Description</strong><br>E.g., Full-Stack Portfolio Site with React & Spring Boot.
+        <br><strong>Dynamic Portfolio</strong><br>React-based showcase with Spring Boot backend. Responsive and modern!
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://github.com/ImalkaJay/[project3-repo-name]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[project3-repo-name]&theme=dracula" alt="Project 3"/>
+      <td align="center" width="50%">
+        <a href="https://github.com/ImalkaJay/your-java-chat-app-repo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=your-java-chat-app-repo&theme=radical&bg_color=0d1117" width="100%" alt="Chat App" />
         </a>
-        <br><strong>Project 3 Description</strong><br>E.g., Chat App Prototype in Java.
+        <br><strong>Java Chat Prototype</strong><br>Simple real-time messaging app. Socket magic in action!
       </td>
-      <td align="center">
+      <td align="center" width="50%">
         <a href="https://github.com/ImalkaJay?tab=repositories">
-          <img src="https://img.shields.io/badge/View_All_Projects-blue?style=for-the-badge&logo=github" alt="More Projects"/>
+          <img src="https://img.shields.io/badge/Explore_All_Projects-%F0%9F%94%8D-blueviolet?style=for-the-badge&logo=octocat" width="100%" alt="More Repos" />
         </a>
-        <br><strong>Explore More</strong><br>8+ public repos – From web dev to AI experiments.
+        <br><strong>Full Repo Gallery</strong><br>8+ projects: Web dev, AI tools, and fitness trackers. Fork and star!
       </td>
     </tr>
   </table>
 </div>
 
-*Replace [project1-repo-name] with your actual repo names (e.g., student-marks-app). Add 3-5 top ones based on your work.*
+*Pro Tip: Swap in your actual repo names (e.g., 'student-marks-system') for live previews. Add descriptions to match your work at ZenIQ or personal projects.*
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Tech Arsenal (Skills That Shine)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,springboot,git,figma,photoshop" alt="Skills Icons" width="800" />
+  <img src="https://skillicons.dev/icons?i=java,springboot,python,react,nodejs,mysql,html,css,js,git,docker,figma,photoshop&perline=8" alt="Tech Stack" width="100%" />
 </div>
 
-#### Progress Badges (Self-Assessed)
+#### Proficiency Sparks 🔥 (Self-Rated)
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-90%25-brightgreen" alt="Java Proficiency" />
-  <img src="https://img.shields.io/badge/Python-75%25-orange" alt="Python Proficiency" />
-  <img src="https://img.shields.io/badge/MySQL-85%25-blue" alt="MySQL Proficiency" />
-  <img src="https://img.shields.io/badge/React-60%25-yellow" alt="React Proficiency" />
-  <img src="https://img.shields.io/badge/Spring_Boot-80%25-red" alt="Spring Boot Proficiency" />
-</div>
-
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImalkaJay&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaJay&theme=dracula&hide_border=true" alt="Streak Stats" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaJay&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" width="48%" />
+  <img src="https://progress-bar.dev/90/?suffix=Java&color=007ACC" alt="Java 90%" />
+  <img src="https://progress-bar.dev/85/?suffix=MySQL&color=007ACC" alt="MySQL 85%" />
+  <img src="https://progress-bar.dev/80/?suffix=Spring+Boot&color=6f42c1" alt="Spring Boot 80%" />
+  <img src="https://progress-bar.dev/75/?suffix=Python&color=FF6B35" alt="Python 75%" />
+  <img src="https://progress-bar.dev/70/?suffix=React&color=61DAFB" alt="React 70%" />
+  <img src="https://progress-bar.dev/65/?suffix=Docker&color=2496ED" alt="Docker 65%" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 Live GitHub Insights
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ImalkaJay&theme=dracula&no-frame=false&no-fg=true&margin-w=15&column=7" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaJay&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=007ACC&text_color=FFFFFF&hide=jupyter%20notebook" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ImalkaJay&theme=radical&no-frame=false&no-fg=true&margin-w=15&column=7&margin-h=15" alt="Trophies" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImalkaJay&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+### 🎯 Learning & Growth Path
+- **📚 Current Quests**: ICET LMS for advanced Java, Python AI courses, and Figma UI mastery.
+- **🏆 Achievements**: freeCodeCamp Responsive Web Cert, ZenIQ project deployments, and consistent gym streaks.
+- **🔍 Exploring**: Bodybuilding apps, social media integrations, and Sinhala audiobook tools.
+- **🤝 Open Collabs**: Let's build something epic – issues/PRs welcome! Contributions fuel my fire.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Contributions_Welcome-%F0%9F%9F%A2-brightgreen?style=for-the-badge" alt="Contribute" />
+  <img src="https://img.shields.io/badge/Open_for_Mentoring-%F0%9F%91%A8%F0%9F%8F%BB%F0%9F%91%A7%F0%9F%8F%BB-blue?style=for-the-badge" alt="Mentor" />
+</div>
+
+---
+
+### 🌐 Let's Link Up!
+<div align="center">
+  <a href="https://linkedin.com/in/imalkajay">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://fb.com/imalka.jayantha.9">
+    <img src="https://img.shields.io/badge/Facebook-Friend_Up-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/imalka_jayyy">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/000000">
+    <img src="https://img.shields.io/badge/Discord-Ping_Me-%235867F0?style=for-the-badge&logo=discord" alt="Discord" />
+  </a>
+  <br><br>
+  <strong>📧 imalkatech@gmail.com | Let's chat code, lifts, or collabs!</strong>
 </div>
 
 ---
 
-### 📚 Certifications & Learning
-- **In Progress**: ICET LMS courses on Advanced Java and Database Design.
-- **Completed**: Online certifications in Responsive Web Design (freeCodeCamp) and UI/UX Basics (Figma).
-- **Interests**: AI image generation tools, Python for data analysis, bodybuilding programs.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Contributions_Welcome-%E2%9C%94-green?style=for-the-badge" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Open_to_Collaborations-blue?style=for-the-badge" alt="Collaborate" />
-</div>
-
----
-
-### 🤝 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/in/imalkajay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/imalka.jayantha.9" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/imalka_jayyy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/000000" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join-indigo?style=for-the-badge&logo=discord" alt="Discord" />
-  </a>
-</div>
-
----
-
-### ☕ Support My Journey
-If my work inspires you, consider buying me a coffee to fuel more coding sessions and gym fuel!
+### ☕ Fuel the Fire
+Support my endless coffee-fueled coding marathons and protein shakes!
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/imalkajay">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.svg" height="50" width="210" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.svg" height="50" width="210" alt="Buy Me a Coffee" style="border-radius:10px" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's code together, lift heavier, and build the future! 🌌 #CodeWithDiscipline</i><br>
-  <sub>Profile last updated: November 2025</sub>
+  <img src="https://komarev.com/ghpvc/?username=ImalkaJay&style=flat-square&color=007ACC&label=Profile%20views" alt="Visitor Counter" />
+  <br>
+  <i>⭐ Star this repo if it sparks joy! | Let's conquer bugs and barbells together. #CodeHardLiftHard 🌌</i><br>
+  <sub>✨ Updated: November 2025 | Made with ❤️ in Colombo</sub>
 </div>
 
-<!--- Star History -->
 <div align="center">
-  <a href="https://star-history.com/#ImalkaJay&Date">
-    <img src="https://api.star-history.com/svg?repos=ImalkaJay/[your-main-repo]&type=s" alt="Star History" />
-  </a>
+  <img src="https://img.shields.io/badge/Thanks_for_Visiting!-%F0%9F%93%9A-blue?style=for-the-badge" alt="Thanks" />
 </div>
