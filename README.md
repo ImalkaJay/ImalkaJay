@@ -48,7 +48,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="REST"/>
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" alt="GraphQL"/>
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" alt="Prettier"/>
-  <img src="https://techstack-generator.vercel.app/figma-icon.svg" width="50" height="50" alt="Figma"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
 </div>
 
 ---
