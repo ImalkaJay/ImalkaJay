@@ -32,12 +32,12 @@
 
 ## 🧰 Tech Stack Highlights
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/>
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" width="50" height="50" alt="Spring"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
+<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
 </div>
 
 <br/>
