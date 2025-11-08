@@ -1,85 +1,142 @@
+<h1 align="center">Hi, I'm Imalka Jay! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno3MGVmcHJvdTlkMTdsa2E1Y293ODVmdzlzazdwaHFqbDBhOGthOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" alt="java" width="600" height="250"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E676&size=30&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!%F0%9F%91%8B;Software+Engineering+Student+%7C+ZenIQ+Developer;Java+%26+Spring+Boot+%7C+Full-Stack+Builder;Python+for+AI+%7C+MySQL+Enthusiast;GymRat+%7C+Discipline+in+Code+%26+Life" alt="Typing Headline"/>
 </div>
 
-<h1 align="center">👋 Hi, I'm Imalka Jay! 🚀</h1>
-<h3 align="center">Software Engineering Student | Code Crafter</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImalkaJay&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Followers-23-blue?style=flat-square&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Public_Repos-9-green?style=flat-square&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Location-Colombo-ffb300?style=flat-square" alt="Location"/>
+</div>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno3MGVmcHJvdTlkMTdsa2E1Y293ODVmdzlzazdwaHFqbDBhOGthOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" width="700" height="250" alt="Header Animation"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+<img align="right" height="220" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="Coding GIF"/>
+
+- 👷 Working on: Full‑stack apps with Spring Boot, MySQL, and React at ZenIQ.  
+- 🌱 Learning: Advanced Python, API design, and container basics (Docker).  
+- 💬 Ask me about: Java, REST APIs, and clean, responsive UI.  
+- 📫 Reach me: imalkatech@gmail.com  
+- 🏋️ Fun fact: GymRat—track reps and commits with the same discipline!
+
+> Code with focus, lift with purpose. 💻💪
+
+---
+
+## 🧰 Tech Stack Highlights
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/>
+  <img src="https://techstack-generator.vercel.app/spring-icon.svg" width="50" height="50" alt="Spring"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React"/>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imalkajay&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="REST"/>
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" alt="GraphQL"/>
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" alt="Prettier"/>
+  <img src="https://techstack-generator.vercel.app/figma-icon.svg" width="50" height="50" alt="Figma"/>
 </div>
 
 ---
 
-### 🌟 About Me
-- 🌱 I’m currently learning **New Technologies**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **imalkatech@gmail.com**
-
-- ⚡ Fun fact **GymRat🏋️ | Discipline📊**
-
+## 🏷️ Pinned Projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/ImalkaJay/[student-marks-repo]">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[student-marks-repo]&theme=algolia" alt="Student Marks App"/>
+        </a>
+        <br/><strong>Student Marks Manager</strong>
+        <br/>Java + MySQL tool for grading workflows and reports.
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/ImalkaJay/[portfolio-react-repo]">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[portfolio-react-repo]&theme=algolia" alt="Portfolio"/>
+        </a>
+        <br/><strong>Developer Portfolio</strong>
+        <br/>React frontend + Spring Boot backend with responsive UI.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/ImalkaJay/[java-chat-proto]">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[java-chat-proto]&theme=algolia" alt="Chat App"/>
+        </a>
+        <br/><strong>Java Chat Prototype</strong>
+        <br/>Socket‑based messaging with clean architecture.
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/ImalkaJay?tab=repositories">
+          <img src="https://img.shields.io/badge/Explore_All_Repos-Click_Here-1E90FF?style=for-the-badge&logo=github" alt="All repos"/>
+        </a>
+        <br/><strong>More Projects</strong>
+        <br/>9+ public projects across full‑stack and tooling.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ImalkaJay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaJay&layout=compact&langs_count=8&theme=algolia" alt="Top Langs"/>
+</p>
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaJay&theme=dark&hide_border=true" alt="Streak"/>
+</p>
+
+---
+
+## 🏆 Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imalkajay&theme=dracula&no-frame=false&margin-w=15&column=-1" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ImalkaJay&theme=algolia&no-frame=false&margin-w=15&column=7" alt="Trophies"/>
   </a>
 </div>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🤝 Connect
 <div align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" alt="c" width="40" height="40"/> </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Light.svg" width="40" height="40"/> </a>  
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://linkedin.com/in/imalkajay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://fb.com/imalka.jayantha.9"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook"/></a>
+  <a href="https://instagram.com/imalka_jayyy"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://discord.gg/000000"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord"/></a>
 </div>
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imalkajay&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imalkajay&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalkajay&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
----
-
-### 🤝 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/in/imalkajay" target="blank"><img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="imalkajay" height="30" width="40" /></a>
-  <a href="https://fb.com/imalka.jayantha.9" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imalka.jayantha.9" height="30" width="40" /></a>
-  <a href="https://instagram.com/imalka_jayyy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imalka_jayyy" height="30" width="40" /></a>
-  <a href="https://discord.gg/000000" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="000000" height="30" width="40" /></a>
-</div>
-
----
-
-### ☕ Support My Journey
+## ☕ Support
 <div align="center">
   <a href="https://www.buymeacoffee.com/imalkajay">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.svg" height="50" width="210" alt="Buy Me a Coffee"/>
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <i>Let's code, collaborate, and conquer! 🌌</i>
-</div>
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
+<div align="center">
+  <i>Let's code, collaborate, and conquer! 🌌</i><br/>
+  <sub>Updated: November 2025</sub>
+</div>
