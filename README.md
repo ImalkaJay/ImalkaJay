@@ -53,46 +53,6 @@
 
 ---
 
-## 🏷️ Pinned Projects
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/ImalkaJay/[student-marks-repo]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[student-marks-repo]&theme=algolia" alt="Student Marks App"/>
-        </a>
-        <br/><strong>Student Marks Manager</strong>
-        <br/>Java + MySQL tool for grading workflows and reports.
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/ImalkaJay/[portfolio-react-repo]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[portfolio-react-repo]&theme=algolia" alt="Portfolio"/>
-        </a>
-        <br/><strong>Developer Portfolio</strong>
-        <br/>React frontend + Spring Boot backend with responsive UI.
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/ImalkaJay/[java-chat-proto]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImalkaJay&repo=[java-chat-proto]&theme=algolia" alt="Chat App"/>
-        </a>
-        <br/><strong>Java Chat Prototype</strong>
-        <br/>Socket‑based messaging with clean architecture.
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/ImalkaJay?tab=repositories">
-          <img src="https://img.shields.io/badge/Explore_All_Repos-Click_Here-1E90FF?style=for-the-badge&logo=github" alt="All repos"/>
-        </a>
-        <br/><strong>More Projects</strong>
-        <br/>9+ public projects across full‑stack and tooling.
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ImalkaJay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats"/>
