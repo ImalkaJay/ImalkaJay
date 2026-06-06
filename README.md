@@ -1,103 +1,99 @@
-<h1 align="center">Hi, I'm Imalka Jay! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E676&size=30&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!%F0%9F%91%8B;Software+Engineering+Student+%7C+ZenIQ+Developer;Java+%26+Spring+Boot+%7C+Full-Stack+Builder;Python+for+AI+%7C+MySQL+Enthusiast;GymRat+%7C+Discipline+in+Code+%26+Life" alt="Typing Headline"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=250&section=header&text=Hi,%20I'm%20Imalka%20Jay!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Animation" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImalkaJay&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Followers-23-blue?style=flat-square&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Public_Repos-9-green?style=flat-square&logo=github" alt="Repos"/>
-  <img src="https://img.shields.io/badge/Location-Colombo-ffb300?style=flat-square" alt="Location"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer+%40+ZenIQ;Java+%7C+Spring+Boot+%7C+React;GymRat+%7C+Code+%2B+Discipline" alt="Typing SVG" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno3MGVmcHJvdTlkMTdsa2E1Y293ODVmdzlzazdwaHFqbDBhOGthOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" width="700" height="250" alt="Header Animation"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImalkaJay&style=for-the-badge&color=2ea043" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Location-Colombo,%20LK-ffb300?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/github/followers/ImalkaJay?style=for-the-badge&color=282c34&logo=github" alt="Followers"/>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-<img align="right" height="220" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="Coding GIF"/>
 
-- 👷 Working on: Full‑stack apps with Spring Boot, MySQL, and React at ZenIQ.  
-- 🌱 Learning: Advanced Python, API design, and container basics (Docker).  
-- 💬 Ask me about: Java, REST APIs, and clean, responsive UI.  
-- 📫 Reach me: imalkatech@gmail.com  
-- 🏋️ Fun fact: GymRat—track reps and commits with the same discipline!
-
-> Code with focus, lift with purpose. 💻💪
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <ul>
+        <li>👷 <strong>Current Focus:</strong> Building full‑stack apps with <b>Spring Boot, MySQL, and React</b> at ZenIQ.</li>
+        <li>🌱 <strong>Leveling Up:</strong> Diving deeper into advanced <b>Python</b>, REST API architecture, and <b>Docker</b>.</li>
+        <li>💬 <strong>Let's Discuss:</strong> Java ecosystems, clean responsive UI, and backend design.</li>
+        <li>🏋️ <strong>Fun Fact:</strong> Total GymRat! I track my reps and my commits with the exact same discipline.</li>
+        <li>📫 <strong>Get in Touch:</strong> <a href="mailto:imalkatech@gmail.com">imalkatech@gmail.com</a></li>
+      </ul>
+    </td>
+    <td valign="center" width="35%" align="center">
+      <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="200" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack Highlights
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-<img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
-<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
-</div>
-
-<br/>
+## 🧰 Tech Arsenal
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="REST"/>
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" alt="GraphQL"/>
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" alt="Prettier"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,mysql,docker,git,github,figma&theme=dark&perline=5" alt="Tech Stack Icons" />
+  </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ImalkaJay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaJay&layout=compact&langs_count=8&theme=algolia" alt="Top Langs"/>
-</p>
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaJay&theme=dark&hide_border=true" alt="Streak"/>
-</p>
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImalkaJay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImalkaJay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="165"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImalkaJay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ImalkaJay&theme=algolia&no-frame=false&margin-w=15&column=7" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ImalkaJay&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
   </a>
 </div>
 
 ---
 
-## 🤝 Connect
+## 🌐 Let's Connect & Collaborate
+
 <div align="center">
-  <a href="https://linkedin.com/in/imalkajay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://fb.com/imalka.jayantha.9"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook"/></a>
-  <a href="https://instagram.com/imalka_jayyy"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="https://discord.gg/000000"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord"/></a>
+  <a href="https://linkedin.com/in/imalkajay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/imalka.jayantha.9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/imalka_jayyy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.gg/000000"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
----
+<br>
 
-## ☕ Support
 <div align="center">
   <a href="https://www.buymeacoffee.com/imalkajay">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </div>
 
-
 ---
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
 <div align="center">
-  <i>Let's code, collaborate, and conquer! 🌌</i><br/>
-  <sub>Updated: November 2025</sub>
+  <img src="https://raw.githubusercontent.com/ImalkaJay/ImalkaJay/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.style.display='none'"/>
 </div>
+
+<br>
+
+<h3 align="center"><i>"Code with focus, lift with purpose. 💻💪"</i></h3>
+<p align="center"><sub>Updated: June 2026</sub></p>
