@@ -85,7 +85,7 @@
 
 ## ☕ Support
 <div align="center">
-  <a href="https://www.buymeacoffee.com/imalkajay">
+  <a href="buymeacoffee.com/imalkajay">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
   </a>
 </div>
